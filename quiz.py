@@ -19,12 +19,14 @@ Co to linux?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -39,12 +41,14 @@ Kto to BRYŚ?
 
 if answer == "1":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 1
           
           """)
@@ -59,12 +63,14 @@ Kto to Skubi?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -79,12 +85,14 @@ Gdzie leży Krym?
 
 if answer == "3":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 3
           
           """)
@@ -100,12 +108,14 @@ Co to Granat?
 
 if answer == "4":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 4
           
           """)
@@ -121,12 +131,14 @@ Jaki smak przeważa w kwaśnicy?
 
 if answer == "3":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 3
           
           """)
@@ -141,12 +153,14 @@ Czy Święty Mikołaj istnieje?
 
 if answer == "1":
     print("""
-        DOBRZE
+        Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     ŚWIĘTY MIKOŁAJ ISTNIEJE!
           
           """)
@@ -161,12 +175,14 @@ Czym jedzie żul i co jedzie żulem?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -182,12 +198,14 @@ Co to window?
 
 if answer == "3":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 3
           
           """)
@@ -203,12 +221,14 @@ O czym jest "Mały Książe"?
 
 if answer == "1":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 1
           
           """)
@@ -224,12 +244,14 @@ Kim był Osama Bin Laden"?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -246,12 +268,14 @@ Jakie są atrybuty Menela?
 
 if answer == "4":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 4
           
           """)
@@ -266,12 +290,14 @@ Jakiej narodowości był Jan Paweł II?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -286,12 +312,14 @@ Co to czopek?
 
 if answer == "1":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 1
           
           """)
@@ -307,12 +335,14 @@ co to znaczy ""else" w pythonie?
 
 if answer == "3":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 3
           
           """)
@@ -327,12 +357,14 @@ Kim był CJ z GTA?
 
 if answer == "2":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 2
           
           """)
@@ -350,12 +382,14 @@ Kto powiedział "Follow the train CJ!"?
 
 if answer == "5":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 5
           
           """)
@@ -371,12 +405,14 @@ Ulubiona gra Klocucha:
 
 if answer == "3":
     print("""
-          DOBRZE
+          Znakomicie
+
           """)
     score += 1
 else:
     print("""
-          Źle
+          NIEEEEEEEEE!
+          
     Poprawna odpowiedź to: 3
           
           """)
@@ -384,3 +420,9 @@ else:
 
 #podsumowanie punktów
 print("Masz " + str(score) + " z 18 porawnych odpowiedzi. A TERAZ WRACAJ NA KIBEL")
+
+
+
+
+if score > 2 < 3:
+    print("KUpa")
