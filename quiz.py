@@ -416,13 +416,56 @@ else:
     Poprawna odpowiedź to: 3
           
           """)
+    
+
+#pytanie 19
+answer = input("""Pytanie 19:
+Czy ryba ma skrzela?
+(1) Tak
+(2) Nie
+>>> """)
+
+if answer == "1":
+    print("""
+          Znakomicie
+
+          """)
+    score += 1
+else:
+    print("""
+          NIEEEEEEEEE!
+          
+    Poprawna odpowiedź to: 1
+          
+          """)
+
+#pytanie 20
+answer = input("""Pytanie 20:
+Co robi komenda "Sudo" w Linux
+(1) Robi naleśniki
+(2) Daje uprawnienia administratora
+(3) Usuwa
+>>> """)
+
+if answer == "2":
+    print("""
+          Znakomicie
+
+          """)
+    score += 1
+else:
+    print("""
+          NIEEEEEEEEE!
+          
+    Poprawna odpowiedź to: 2
+          
+          """)
 
 
 #podsumowanie punktów
-print("Masz " + str(score) + " z 18 porawnych odpowiedzi. A TERAZ WRACAJ NA KIBEL")
+print("Masz " + str(score) + " z 20 porawnych odpowiedzi. A TERAZ WRACAJ NA KIBEL")
 
+#ocena
 
-
-
-if score > 2 < 3:
-    print("KUpa")
+if score > 0 < 3:
+    print("Ocena to 1")
